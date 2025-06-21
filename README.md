@@ -54,10 +54,4 @@
 
 ---
 
-⏳ **Working Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.56 % as on ⏰ 09-Jun-2025
-
----
-
-### 💬 Quote:
-
 > “The point is not only to understand code, but to use it to change the world.”  
