@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma420&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma420" /> </p>
 
-- 🔭 I’m currently working on **Zerodha clone**
+- 🔭 I’m currently working on **LinkedIn clone**
 - 🌱 I’m currently learning **Ethical hacking and backend frameworks**
 - 📫 How to reach me: **amanv2225@gmail.com**
 - ⚡ Fun fact: **I once implemented a Big Integer library in C++ just for fun — and it worked better than my calculator!**
