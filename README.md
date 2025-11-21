@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LinkedIn clone**  
 - 🌱 Currently learning **Ethical Hacking & Backend Frameworks**  
-- 📫 Reach me at: **amanverma9870@gmail.com**  
+- 📫 Reach me at: **amanverma42000@gmail.com**  
 - ⚡ Fun fact: **I once implemented a Big Integer library in C++ — and it worked better than my calculator!**
 
 ---
